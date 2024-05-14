@@ -1,0 +1,51 @@
+html, body{
+    margin: 0px;
+}
+
+.encabezado{
+    background-color: #27AF6E;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+.logo{
+
+}
+
+h1{
+    font-size: 30px;
+    font-weight: bold;
+    color: azure;
+}
+
+.back-logo{
+    background-color: aliceblue;
+}
+
+section{
+    width: 40%;
+    height: 40%;
+}
+
+.view{
+    width: 40%;
+    height: 40%;
+    background-color: black;
+}
+
+.raton-trampa{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.img-raton{
+    width: 300px;
+    padding: 20px;
+}
